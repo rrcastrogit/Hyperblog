@@ -1,2 +1,2 @@
 # Hyperblog
-sitio para prcticas de git y github
+sitio para prácticas de git y github
